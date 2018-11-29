@@ -1,4 +1,4 @@
-# pcs3858-embedded-systems-app
+# RPCar app
 
 An Android app to control a Raspberry Pi-powered car.
 
