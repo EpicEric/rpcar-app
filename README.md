@@ -1,6 +1,6 @@
 # RPCar app
 
-An Android app to control a Raspberry Pi-powered car.
+An Android app to control a Raspberry Pi-powered car running [`rpcar-controller`](https://github.com/EpicEric/rpcar-controller).
 
 Forked from [martinohanlon/BlueDot](https://github.com/martinohanlon/BlueDot).
 
